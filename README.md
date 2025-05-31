@@ -1,4 +1,6 @@
-![Top Header](Header/Github-Header.png)
+<div align="center">
+  <img src="Header/Github-Header.png" alt="Header Image" width="800"/>
+</div>
 
 ---
 
