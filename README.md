@@ -6,7 +6,7 @@
 
 ## 🤵 About Me
 
-##### I am a software developer specializing in Python, game development with Unity3D, and C# programming. Passionate about creating innovative applications and engaging games, I strive to deliver creative solutions and compelling user experiences.
+##### I am a software developer specializing in Python, a web developer with Html, Css, Js, and Python (Flask) Backend. Passionate about creating innovative and engaging websites, I strive to provide creative solutions and an engaging user experience.
 
 ---
 
